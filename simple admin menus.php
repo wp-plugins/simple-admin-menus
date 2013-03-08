@@ -5,7 +5,7 @@
  * Description: Hides unwanted menus in WordPress admin.
  * Author: Ravi
  * Author URI: http://wp26.com/about
- * Version: 0.1.0
+ * Version: 0.2.0
  * License: GPLv2 or later
  */
 

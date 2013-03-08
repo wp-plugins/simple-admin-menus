@@ -10,7 +10,7 @@ Requires at least: 3.0
 
 Tested up to: 3.5.1
 
-Stable tag: trunk
+Stable tag: 0.2.0
 
 
 
@@ -45,6 +45,9 @@ $restricted = array(__('Appearance'), __('Settings'), __('Links'), __('Users'), 
 
 == Changelog ==
 
+= 0.2.0 =
+* Adding screenshot
+
 = 0.1.0 =
 * This is the first version of this plugin.
 
@@ -57,6 +60,9 @@ There is no settings page yet. It may be done in a future version. If you want t
 $restricted = array(__('Appearance'), __('Settings'), __('Links'), __('Users'), __('Tools'));
 
 == Upgrade Notice ==
+
+= 0.2.0 =
+* Adding screenshot
 
 = 0.1.0 =
 
